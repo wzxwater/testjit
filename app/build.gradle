@@ -26,5 +26,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
 
-    implementation project(':lib_wzx')
+//    implementation project(':lib_wzx')
+    compile 'com.github.wzxwater:testjit:3375e2eed0'
 }
